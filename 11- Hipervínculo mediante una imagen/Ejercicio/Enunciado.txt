@@ -1,0 +1,3 @@
+Problema:Crear tres páginas con una foto cada una (foto1.jpg, foto2.jpg y foto3.jpg) luego al ser presionada avanzar a la 
+siguiente página, es decir de la pagina1.html llamar a la pagina2.html, de la pagina2.html pasar a la pagina3.html y de ésta a la primera.
+Las imágenes se encuentran en el directorio padre.

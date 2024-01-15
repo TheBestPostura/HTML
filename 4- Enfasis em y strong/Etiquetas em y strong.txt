@@ -1,0 +1,3 @@
+<em></em> Le da enfasis a lo que haya escrito dentro de las etiquetas
+
+<strong></strong> Le da fuerza a lo que esta entre las etiquetas.

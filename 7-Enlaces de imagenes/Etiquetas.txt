@@ -1,0 +1,1 @@
+<img src="ruta de foto" alt="Pintura geometrica">
